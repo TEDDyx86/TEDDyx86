@@ -230,7 +230,7 @@ aprendendo:
   - Orquestração avançada de agentes com LLM e pipelines RAG
   - Escalonamento de modelos de forense de áudio (Wav2Vec2 + AST)
 construindo:
-  - IDP Core — SaaS de inteligência acadêmica autônoma
+  - IDP Core — inteligência acadêmica autônoma
   - ConfereAI — motor forense neural de detecção de clonagem de voz
   - VisionFlow — UX touchless com visão computacional privacy-first
 explorando:
